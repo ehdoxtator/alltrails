@@ -18,6 +18,10 @@ This README contains information regarding the AllTrails take home assignment fo
 
 This application is hosted on git, and can be installed to a local directory with:
 
+```bash
+git clone https://github.com/ehdoxtator/alltrails.git
+```
+
 # Items In Release
 | Item | Notes |
 ---|---
